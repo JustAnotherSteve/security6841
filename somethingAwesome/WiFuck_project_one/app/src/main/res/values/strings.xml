@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WiFuckU</string>
+    <string name="strSearch">Search Wifis</string>
+    <string name="strTargetHeading">Target WiFi</string>
+    <string name="strESSID">ESSID: - </string>
+    <string name="strBSSID">BSSID: - </string>
+    <string name="strLevel">LEVEL: - </string>
+    <string name="strStatus">STATUS: - </string>
+    <string name="strButFuck">Fuck ya WiFi</string>
+
+    
+    
+</resources>
